@@ -1,4 +1,4 @@
-# Alx Devopps learning
+# Alx Devops learning
 
 **Shell Redirection I/O Filter**
 
