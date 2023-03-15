@@ -1,6 +1,6 @@
 # Alx Devopps learning
 
-*** Shell Redirection I/O Filter ***
+**Shell Redirection I/O Filter**
 
 ## Commands for filter
 ```bash 
